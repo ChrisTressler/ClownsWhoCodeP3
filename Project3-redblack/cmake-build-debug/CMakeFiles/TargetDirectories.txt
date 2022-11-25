@@ -1,3 +1,0 @@
-C:/Users/kusha/CLionProjects/Project3-redblack/cmake-build-debug/CMakeFiles/Project3_redblack.dir
-C:/Users/kusha/CLionProjects/Project3-redblack/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/kusha/CLionProjects/Project3-redblack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
